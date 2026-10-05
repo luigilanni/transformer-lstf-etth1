@@ -47,7 +47,7 @@ on top of a vanilla Transformer.
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/transformer-lstf-etth1.git
+git clone https://github.com/<luigilanni>/transformer-lstf-etth1.git
 cd transformer-lstf-etth1
 pip install -r requirements.txt
 ```
